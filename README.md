@@ -3,18 +3,7 @@
 
 ## Följande är instruktioner för att installera hela systemet:
 ### npm install i projekt-mappen 
-### forsätter sedan med:
-### npm mongoose
-### npm express
-### npm body-parser
-### npm path
-### npm bcrypt
-### npm stripe
-### npm nodemon
-### access-manager
-### kapa och importera acl fil
-### Installera Postman applikationen
-### Installera Mongo Management Studio
+
 
 ## Sedan öppnar du din projekt mapp i Terminal, skriver sedan cd server,  sedan nodemon server.js - så är hemsidan igång.
 
